@@ -1,6 +1,6 @@
 # IV-InteractiveTool
 Information Visualization interactive website for exploration
-<hr />
+
 ### iv_assignment3_htmlPage - Ruiying Wang (updated)
 
 - The home page including:
